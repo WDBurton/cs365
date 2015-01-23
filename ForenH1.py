@@ -30,7 +30,8 @@ def test(fn):
 
 
 def main(fileName):
-	"""print("This is a test!  :D  " + fileName)"""
+	"""print("This is a test!  :D  " + fileName)
+	MOWR TESTS!!!  BWAHAHAHAHA!!!"""
 	test(fileName)
 
 
